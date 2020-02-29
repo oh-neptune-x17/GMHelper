@@ -20,7 +20,4 @@ public:
 
 int main()
 {
-	Dwarf nok;
-	nok.setAge(105);
-	std::cout << nok.age;
 }
