@@ -23,9 +23,7 @@ int main()
 {
 	Dwarf nok;
 	nok.setAge(105);
-
 	std::cout << nok.age;
-
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
